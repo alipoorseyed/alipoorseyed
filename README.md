@@ -22,7 +22,7 @@
 
  <a href="https://github.com/alipoorseyed">![Github stats](https://github-readme-stats.vercel.app/api?username=alipoorseyed&theme=radical&count_private=true&hide_border=true&line_height=20)</a>
  <br>
- <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negarhonarvar&layout=compact&theme=radical&count_private=true&hide_border=true)</a>
+ <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alipoorseyed&layout=compact&theme=radical&count_private=true&hide_border=true)</a>
 
 
 
