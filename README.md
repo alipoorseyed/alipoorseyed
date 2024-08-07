@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/alipoorseyed">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,java,c,cpp,flutter,git"/>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,java,c,cpp,flutter,git"/>
   </a>
 </p>
 
