@@ -1,7 +1,7 @@
 ### Hi there , It's Ali 👋
 
 # 💫 About Me:
-- 🌱  I’m currently learning Front-End Development
+- 🌱  I’m Front-End Developer
 - 👀  I’m interested in Programming, Editing, Back-End Development
 - 😄  I will be happy if you send me your comments about my project
 - 📫  How to reach me : poorseyedali40@gmail.com
